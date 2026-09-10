@@ -1,2 +1,1 @@
-# the-wild-project
-the wild project
+# The Wild Project :)
